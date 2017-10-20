@@ -1,0 +1,1 @@
+This project is a custom logger that will log some information about each request it recieves. It has an endpoint on the server, so it is easy for anyone to retieve the latest log data from the web.
